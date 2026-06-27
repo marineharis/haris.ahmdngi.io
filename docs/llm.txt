@@ -1,0 +1,16 @@
+# Haris — Vessel Edge Data Platform
+
+Documentation for the Haris platform: edge data collection, transmission, and monitoring for maritime vessels.
+
+## Components
+
+- Edge data collection (NMEA 0183 parser, NMEA 2000 parser, Signal K ingestor)
+- Data transmission (compression, sync to server, webhook alerts)
+- System monitoring (health diagnostics, auto-restart, VPN watchdog)
+- Hardware assembly guides and bill of materials
+- Field deployment and tamper evidence procedures
+
+## Related
+
+- https://cyber.oversight.ee — Oversight: maritime & OT cybersecurity
+- https://notes.oversight.ee — Ahmed's technical notebook
