@@ -3,8 +3,8 @@
 Zensical-backed documentation source for `haris.oversight.ee`.
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Deployed-success?style=flat-square)](https://haris.oversight.ee)
-[![CI](https://img.shields.io/github/actions/workflow/status/ahmdngi/haris.oversight.ee/ci.yml?style=flat-square)](https://github.com/ahmdngi/haris.oversight.ee/actions/workflows/ci.yml)
-[![Stars](https://img.shields.io/github/stars/ahmdngi/haris.oversight.ee?style=flat-square)](https://github.com/ahmdngi/haris.oversight.ee)
+[![CI](https://img.shields.io/github/actions/workflow/status/project-haris/haris.oversight.ee/ci.yml?style=flat-square)](https://github.com/project-haris/haris.oversight.ee/actions/workflows/ci.yml)
+[![Stars](https://img.shields.io/github/stars/project-haris/haris.oversight.ee?style=flat-square)](https://github.com/project-haris/haris.oversight.ee)
 
 ## Structure
 
